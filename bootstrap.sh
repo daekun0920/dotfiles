@@ -68,6 +68,7 @@ brew install postman --cask
 brew install slack --cask
 brew install sublime-text --cask
 brew install tableplus --cask
+brew install dbeaver-community --cask
 
 #-------------------------------------------------------------------------------
 # Install global Git configuration
