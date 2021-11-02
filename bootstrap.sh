@@ -52,6 +52,7 @@ brew install telnet
 brew install git-crypt
 brew install gnupg
 brew install graphviz
+brew install kubectx
 
 brew install gradle
 brew install maven
